@@ -14,6 +14,6 @@ referral_codes:
 # -------------------------
 delay_before_start:
   min: 2                       # Minimum delay before starting (seconds)
-  max: 3                       # Maximum delay before starting (seconds)
+  max: 30                       # Maximum delay before starting (seconds)
 
 
